@@ -30,5 +30,13 @@
     "ytt"
   ],
   "author": "KabirSingh8148",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker.git"
+  },
+  "bugs": {
+    "url": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker/issues"
+  },
+  "homepage": "https://github.com/KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Youtube-Together-Poker#readme"
 }
