@@ -14,7 +14,7 @@
 
 Enjoy ;)
 
-[REPLIT](https://replit.com/@KabirJaipal/A-Advance-Discord-Multi-Purpose-with-Moderation-Music-Fun-et?v=1)
+[REPLIT](https://replit.com/@KabirJaipal/Advance-Discord-Mini-Games-Discord-Bot-With-Advance-Games-Yo?v=1)
 
 *Yes It Works on REPLIT*
 
